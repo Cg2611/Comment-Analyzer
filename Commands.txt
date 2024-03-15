@@ -1,0 +1,4 @@
+cd Downloads (or Desktop whereever your file is)
+python requirement.py
+pip install voila
+python -m voila comment_analyzer.ipynb
